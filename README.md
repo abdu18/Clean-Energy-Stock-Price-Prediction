@@ -1,5 +1,5 @@
 # Clean-Energy-Stock-Price-Prediction
-Different types of regression models from Scikit learn used to predict Clean Energy stock prices 
+Different types of regression models used to predict Clean Energy stock prices 
 
 Clean Energy Fuels Corp. (CLNE) data downloaded from the Yahoo Finance: https://finance.yahoo.com/quote/CLNE/history?p=CLNE
 
